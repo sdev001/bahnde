@@ -1,4 +1,4 @@
-a small UI testing demo of the 'Deutsche Bahn' website (Meta-nav menu Navigation), showcasing Shadow DOM handling with Selenium and Selenide, using a Jira, Xray-based Cucumber workflow.
+A small example of automated UI testing for the Deutsche Bahn [website](https://www.bahn.de/)." (Meta-nav menu Navigation), showcasing Shadow DOM handling with Selenium and Selenide, using a Jira, Xray-based Cucumber workflow.
 
 ## challenges addressed :
 - interacting with a cookies banner that is encapsulated within a Shadow DOM
