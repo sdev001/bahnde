@@ -1,9 +1,10 @@
+@DBS-15
 Feature: Homepage Meta-Nav-Menu test
 
   Background:
-		#@PRECOND_DBS-12
+	    @PRECOND_DBS-12
     Given I'm on the "https://www.bahn.de/" homepage
-	    #@PRECOND_DBS-13
+	    @PRECOND_DBS-13
     Given I close the cookies banner
 
   Scenario Outline: Meta-Nav-Menu functionality test
